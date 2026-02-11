@@ -16,7 +16,7 @@ mata: mata set matafavor speed
 
 *change the path before running
 
-cd ""
+cd ".."
 
 *creating the folders
 *mkdir "./output"
@@ -339,4 +339,5 @@ meta funnelplot, metric(se)
 graph export "${outputs}Figure_Publication.png", as(png) width(3000) replace
 
 *statistical Test (Egger's Test)
+
 meta bias, egger
