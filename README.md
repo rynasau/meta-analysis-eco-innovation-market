@@ -43,5 +43,10 @@ This project conducts a structured meta-analysis to:
 - Prediction interval calculation
 - Funnel plot and Egger’s test for publication bias
 
+# Data Availability
+
+The raw dataset used in this project cannot be publicly shared. The dataset, including the original collection of studies, was provided by the course instructor.
+The repository therefore contains only the code required to replicate the analysis workflow. The structure and processing steps are fully documented to allow reproducibility if there's an access to the original data.
+
 
 
